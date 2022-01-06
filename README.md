@@ -1,6 +1,6 @@
 # webDev
 
-|  #  | Mini Projects                                                                                   | Website Links                                          |
+|  ∞  | Mini Projects                                                                                   | Website Links                                          |
 | :-: | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 01  | [Travel Goals](https://github.com/abdullahtabish/webDev/tree/main/Travel%20Goals)               | [Site Link](https://count-travelgoals.netlify.app/)    |
 | 02  | [Glass Effect](https://github.com/abdullahtabish/webDev/tree/main/Glass%20Effect)               | [Site Link](https://count-glasseffect.netlify.app/)    |
