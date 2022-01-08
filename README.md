@@ -13,4 +13,4 @@
 | 09  | [Progress Steps](https://github.com/abdullahtabish/webDev/tree/main/Progress%20Steps)           | [Site Link](https://count-progresssteps.netlify.app/)    |
 | 10  | [Split Landing Page](https://github.com/abdullahtabish/webDev/tree/main/Split%20Landing%20Page) | [Site Link](https://count-splitlandingpage.netlify.app/) |
 | 11  | [Scroll Animation](https://github.com/abdullahtabish/webDev/tree/main/Scroll%20Animation)       | [Site Link](https://count-scrollanimation.netlify.app/)  |
-| 12  | [Form Wave Animation](https://github.com/abdullahtabish/webDev/tree/main/Form%20Wave)           | [Site Link](https://count-formwave.netlify.app/){:target="_blank" rel="noopener"}         |
+| 12  | [Form Wave Animation](https://github.com/abdullahtabish/webDev/tree/main/Form%20Wave)           | [Site Link](https://count-formwave.netlify.app/)         |
