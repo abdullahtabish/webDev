@@ -16,3 +16,5 @@
 | 12  | [Scroll Animation](https://github.com/abdullahtabish/webDev/tree/main/Scroll%20Animation)       | [Site Link](https://count-scrollanimation.netlify.app/)  |
 | 13  | [Form Wave Animation](https://github.com/abdullahtabish/webDev/tree/main/Form%20Wave)           | [Site Link](https://count-formwave.netlify.app/)         |
 | 14  | [Sound Board](https://github.com/abdullahtabish/webDev/tree/main/Sound%20Board)                 | [Site Link](https://count-soundboard.netlify.app/)       |
+| 15  | [FAQ Collapse](https://github.com/abdullahtabish/webDev/tree/main/FAQ%20Collapse)               | [Site Link](https://count-faqcollapse.netlify.app/)      |
+| 16  | [Event KeyCodes](https://github.com/abdullahtabish/webDev/tree/main/Event%20KeyCodes)           | [Site Link](https://count-eventkeycodes.netlify.app/)    |
