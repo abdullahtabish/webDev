@@ -1,9 +1,9 @@
-const tagsEl = document.getElementById("tags");
-const textarea = document.getElementById("textarea");
+const tagsElement = document.getElementById("tags");
+const textArea = document.getElementById("textarea");
 
-textarea.focus();
+textArea.focus();
 
-textarea.addEventListener("keyup", (e) => {
+textArea.addEventListener("keyup", (e) => {
   createTags(e.target.value);
 
   if (e.key === "Enter") {
@@ -21,13 +21,13 @@ function createTags(input) {
     .filter((tag) => tag.trim() !== "")
     .map((tag) => tag.trim());
 
-  tagsEl.innerHTML = "";
+  tagsElement.innerHTML = "";
 
   tags.forEach((tag) => {
     const tagEl = document.createElement("span");
     tagEl.classList.add("tag");
     tagEl.innerText = tag;
-    tagsEl.appendChild(tagEl);
+    tagsElement.appendChild(tagEl);
   });
 }
 
@@ -41,7 +41,7 @@ function randomSelect() {
       highlightTag(randomTag);
 
       setTimeout(() => {
-        unHighlightTag(randomTag);
+        unhighlightTag(randomTag);
       }, 100);
     }
   }, 100);
@@ -66,6 +66,6 @@ function highlightTag(tag) {
   tag.classList.add("highlight");
 }
 
-function unHighlightTag(tag) {
+function unhighlightTag(tag) {
   tag.classList.remove("highlight");
 }
