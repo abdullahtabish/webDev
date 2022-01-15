@@ -20,3 +20,4 @@
 | 16  | [FAQ Collapse](https://github.com/abdullahtabish/webDev/tree/main/FAQ%20Collapse)                   | [Site Link](https://count-faqcollapse.netlify.app/)        |
 | 17  | [Event KeyCodes](https://github.com/abdullahtabish/webDev/tree/main/Event%20KeyCodes)               | [Site Link](https://count-eventkeycodes.netlify.app/)      |
 | 18  | [Random Choice Picker](https://github.com/abdullahtabish/webDev/tree/main/Random%20Choice%20Picker) | [Site Link](https://count-randomchoicepicker.netlify.app/) |
+| 19  | [Incrementing Counter](https://github.com/abdullahtabish/webDev/tree/main/Incrementing%20Counter)   | [Site Link](https://count-incrementcounter.netlify.app/)   |
