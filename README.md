@@ -24,3 +24,4 @@
 | 20  | [Incrementing Counter](https://github.com/abdullahtabish/webDev/tree/main/Incrementing%20Counter)   | [Site Link](https://count-incrementcounter.netlify.app/)   |
 | 21  | [Drink Water](https://github.com/abdullahtabish/webDev/tree/main/Drink%20Water)                     | [Site Link](https://count-drinkwater.netlify.app/)         |
 | 22  | [Background Slider](https://github.com/abdullahtabish/webDev/tree/main/Background%20Slider)         | [Site Link](https://count-backgroundslider.netlify.app/)   |
+| 23  | [Clock](https://github.com/abdullahtabish/webDev/tree/main/Clock)                                   | [Site Link](https://count-themeclock.netlify.app/)         |
