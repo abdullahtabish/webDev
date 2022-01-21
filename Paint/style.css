@@ -45,3 +45,22 @@ canvas {
 .toolbox > *:last-child {
   margin-left: auto;
 }
+
+
+@media (max-width: 48rem) {
+  canvas {
+    height: 300px;
+    width: 300px;
+  }
+  .toolbox {
+    width: 300px;
+    padding: 0.25rem;
+  }
+  .toolbox > * {
+    font-size: 1rem;
+    height: 20px;
+    width: 20px;
+    margin: 0.1rem;
+    padding: 0.1rem;
+  }
+}
