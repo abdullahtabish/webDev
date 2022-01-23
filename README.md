@@ -27,3 +27,4 @@
 | 23  | [Clock](https://github.com/abdullahtabish/webDev/tree/main/Clock)                                   | [Site Link](https://count-themeclock.netlify.app/)         |
 | 24  | [Drag N Drop](https://github.com/abdullahtabish/webDev/tree/main/Drag%20N%20Drop)                   | [Site Link](https://count-dragndrop.netlify.app/)          |
 | 25  | [Paint](https://github.com/abdullahtabish/webDev/tree/main/Paint)                                   | [Site Link](https://count-paint.netlify.app/)              |
+| 26  | [Kinetic Loader](https://github.com/abdullahtabish/webDev/tree/main/Kinetic%20Loader)               | [Site Link](https://count-kineticloader.netlify.app/)      |
