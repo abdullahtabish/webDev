@@ -29,3 +29,4 @@
 | 25  | [Paint](https://github.com/abdullahtabish/webDev/tree/main/Paint)                                   | [Site Link](https://count-paint.netlify.app/)              |
 | 26  | [Kinetic Loader](https://github.com/abdullahtabish/webDev/tree/main/Kinetic%20Loader)               | [Site Link](https://count-kineticloader.netlify.app/)      |
 | 27  | [Content Placeholder](https://github.com/abdullahtabish/webDev/tree/main/Content%20Placeholder)     | [Site Link](https://count-contentplaceholder.netlify.app/) |
+| 28  | [Sticky Navbar](https://github.com/abdullahtabish/webDev/tree/main/Sticky%20Navbar)                 | [Site Link](https://count-stickynavbar.netlify.app/)       |
