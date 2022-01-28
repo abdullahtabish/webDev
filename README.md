@@ -32,3 +32,4 @@
 | 28  | [Sticky Navbar](https://github.com/abdullahtabish/webDev/tree/main/Sticky%20Navbar)                 | [Site Link](https://count-stickynavbar.netlify.app/)       |
 | 29  | [Vertical Slider](https://github.com/abdullahtabish/webDev/tree/main/Vertical%20Slider)             | [Site Link](https://count-verticalslider.netlify.app/)     |
 | 30  | [Toast Notification](https://github.com/abdullahtabish/webDev/tree/main/Toast%20Notification)       | [Site Link](https://count-toastnotification.netlify.app/)  |
+| 31  | [Github Profiles](https://github.com/abdullahtabish/webDev/tree/main/Github%20Profiles)             | [Site Link](https://count-githubprofiles.netlify.app/)     |
