@@ -33,3 +33,4 @@
 | 29  | [Vertical Slider](https://github.com/abdullahtabish/webDev/tree/main/Vertical%20Slider)             | [Site Link](https://count-verticalslider.netlify.app/)     |
 | 30  | [Toast Notification](https://github.com/abdullahtabish/webDev/tree/main/Toast%20Notification)       | [Site Link](https://count-toastnotification.netlify.app/)  |
 | 31  | [Github Profiles](https://github.com/abdullahtabish/webDev/tree/main/Github%20Profiles)             | [Site Link](https://count-githubprofiles.netlify.app/)     |
+| 32  | [Double Click Heart](https://github.com/abdullahtabish/webDev/tree/main/Double%20Click%20Heart)     | [Site Link](https://count-doubleclickheart.netlify.app/)   |
