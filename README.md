@@ -37,4 +37,4 @@
 | 33  | [Github Profiles](https://github.com/abdullahtabish/webDev/tree/main/Github%20Profiles)                           | [Site Link](https://count-githubprofiles.netlify.app/)     |
 | 34  | [Double Click Heart](https://github.com/abdullahtabish/webDev/tree/main/Double%20Click%20Heart)                   | [Site Link](https://count-doubleclickheart.netlify.app/)   |
 | 35  | [Password Generator](https://github.com/abdullahtabish/webDev/tree/main/Password%20Generator)                     | [Site Link](https://count-passwordgenerator.netlify.app/)  |
-| 36  | [Good Cheap Fast Checkboxes](https://github.com/abdullahtabish/webDev/tree/main/Good%20Cheap%20Fast%20Checkboxes) | [Site Link](https://count-checkboxes.netlify.app/)         ||
+| 36  | [Good Cheap Fast Checkboxes](https://github.com/abdullahtabish/webDev/tree/main/Good%20Cheap%20Fast%20Checkboxes) | [Site Link](https://count-checkboxes.netlify.app/)         |
