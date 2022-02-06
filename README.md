@@ -42,3 +42,4 @@
 | 38  | [Notes](https://github.com/abdullahtabish/webDev/tree/main/Notes)                                                 | [Site Link](https://count-notes.netlify.app/)              |
 | 39  | [Image Carousel](https://github.com/abdullahtabish/webDev/tree/main/Image%20Carousel)                             | [Site Link](https://count-imagecarousel.netlify.app/)      |
 | 40  | [Hoverboard](https://github.com/abdullahtabish/webDev/tree/main/Hoverboard)                                       | [Site Link](https://count-hoverboard.netlify.app/)         |
+| 41  | [Pokedex](https://github.com/abdullahtabish/webDev/tree/main/Pokedex)                                             | [Site Link](https://count-pokedex.netlify.app/)            |
