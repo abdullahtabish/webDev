@@ -45,3 +45,4 @@
 | 41  | [Pokedex](https://github.com/abdullahtabish/webDev/tree/main/Pokedex)                                               | [Site Link](https://count-pokedex.netlify.app/)                    |
 | 42  | [Mobile Tab Navigation](https://github.com/abdullahtabish/webDev/tree/main/Mobile%20Tab%20Navigation)               | [Site Link](https://count-mobiletabnavigation.netlify.app/)        |
 | 43  | [Password Strength Background](https://github.com/abdullahtabish/webDev/tree/main/Password%20Strength%20Background) | [Site Link](https://count-passwordstrengthbackground.netlify.app/) |
+| 44  | [Gif Box](https://github.com/abdullahtabish/webDev/tree/main/Gif%20Box)                                             | [Site Link](https://count-gifbox.netlify.app/)                     |
