@@ -49,3 +49,4 @@
 | 45  | [Verify Account UI](https://github.com/abdullahtabish/webDev/tree/main/Verify%20Account%20UI)                       | [Site Link](https://count-verifyaccountui.netlify.app/)            |
 | 46  | [Live User Filter](https://github.com/abdullahtabish/webDev/tree/main/Live%20User%20Filter)                         | [Site Link](https://count-liveuserfilter.netlify.app/)             |
 | 47  | [Feedback UI Design](https://github.com/abdullahtabish/webDev/tree/main/Feedback%20UI%20Design)                     | [Site Link](https://count-feedbackuidesign.netlify.app/)           |
+| 48  | [Custom Range Slider](https://github.com/abdullahtabish/webDev/tree/main/Custom%20Range%20Slider)                   | [Site Link](https://count-customrangeslider.netlify.app/)          |
