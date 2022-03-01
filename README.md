@@ -51,3 +51,4 @@
 | 47  | [Feedback UI Design](https://github.com/abdullahtabish/webDev/tree/main/Feedback%20UI%20Design)                     | [Site Link](https://count-feedbackuidesign.netlify.app/)           |
 | 48  | [Custom Range Slider](https://github.com/abdullahtabish/webDev/tree/main/Custom%20Range%20Slider)                   | [Site Link](https://count-customrangeslider.netlify.app/)          |
 | 49  | [Netflix Navigation](https://github.com/abdullahtabish/webDev/tree/main/Netflix%20Navigation)                       | [Site Link](https://count-netflixnavigation.netlify.app/)          |
+| 50  | [Quiz App](https://github.com/abdullahtabish/webDev/tree/main/Quiz%20App)                                           | [Site Link](https://count-quizapp.netlify.app/)                    |
