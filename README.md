@@ -55,3 +55,4 @@
 | 51  | [Testimonial Box Switcher](https://github.com/abdullahtabish/webDev/tree/main/Testimonial%20Box%20Switcher)         | [Site Link](https://count-testimonialboxswitcher.netlify.app/)     |
 | 52  | [Random Image Feed](https://github.com/abdullahtabish/webDev/tree/main/Random%20Image%20Feed)                       | [Site Link](https://count-randomimagefeed.netlify.app/)            |
 | 53  | [Todo List](https://github.com/abdullahtabish/webDev/tree/main/Todo%20List)                                         | [Site Link](https://count-todolist.netlify.app/)                   |
+| 54  | [Insect Catch Game](https://github.com/abdullahtabish/webDev/tree/main/Insect%20Catch%20Game)                       | [Site Link](https://count-catchtheinsect.netlify.app/)             |
