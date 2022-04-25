@@ -58,4 +58,5 @@
 | 54  | [Insect Catch Game](https://github.com/abdullahtabish/webDev/tree/main/Insect%20Catch%20Game)                       | [Site Link](https://count-catchtheinsect.netlify.app/)             |
 | 55  | [Expense Tracker](https://github.com/abdullahtabish/webDev/tree/main/Expense%20Tracker)                             | [Site Link](https://count-expensetracker.netlify.app/)             |
 | 56  | [Exchange Rate](https://github.com/abdullahtabish/webDev/tree/main/Exchange%20Rate)                                 | [Site Link](https://count-exchangerate.netlify.app/)               |
-| 57  | [Music Player](https://github.com/abdullahtabish/webDev/tree/main/Music%20Player)                                   | [Site Link](https://count-musicplayer.netlify.app/)                |
+| 57  | [Relaxer](https://github.com/abdullahtabish/webDev/tree/main/Relaxer)                                               | [Site Link](https://count-relaxer.netlify.app/)                    |
+| 58  | [Music Player](https://github.com/abdullahtabish/webDev/tree/main/Music%20Player)                                   | [Site Link](https://count-musicplayer.netlify.app/)                |
