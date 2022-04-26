@@ -3,7 +3,7 @@
 |  ∞  | Mini Projects                                                                                                       | Website Links                                                      |
 | :-: | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | 01  | [Movie Ratings](https://github.com/abdullahtabish/webDev/tree/main/Movie%20Ratings)                                 | [Site Link](https://count-movieratings.netlify.app/)               |
-| 02  | [Image Upload](https://github.com/abdullahtabish/webDev/tree/main/Image%20Upload)                                   | [Site Link](https://count-imageupload.herokuapp.com/)              |
+| 02  | [Number Guess](https://github.com/abdullahtabish/webDev/tree/main/Number%20Guess)                                   | [Site Link](https://count-numberguess.netlify.app/)                |
 | 03  | [Dad Jokes](https://github.com/abdullahtabish/webDev/tree/main/Dad%20Jokes)                                         | [Site Link](https://count-dadjokes.netlify.app/)                   |
 | 04  | [Travel Goals](https://github.com/abdullahtabish/webDev/tree/main/Travel%20Goals)                                   | [Site Link](https://count-travelgoals.netlify.app/)                |
 | 05  | [Glass Effect](https://github.com/abdullahtabish/webDev/tree/main/Glass%20Effect)                                   | [Site Link](https://count-glasseffect.netlify.app/)                |
@@ -54,9 +54,10 @@
 | 50  | [Quiz App](https://github.com/abdullahtabish/webDev/tree/main/Quiz%20App)                                           | [Site Link](https://count-quizapp.netlify.app/)                    |
 | 51  | [Testimonial Box Switcher](https://github.com/abdullahtabish/webDev/tree/main/Testimonial%20Box%20Switcher)         | [Site Link](https://count-testimonialboxswitcher.netlify.app/)     |
 | 52  | [Random Image Feed](https://github.com/abdullahtabish/webDev/tree/main/Random%20Image%20Feed)                       | [Site Link](https://count-randomimagefeed.netlify.app/)            |
-| 53  | [Todo List](https://github.com/abdullahtabish/webDev/tree/main/Todo%20List)                                         | [Site Link](https://count-todolist.netlify.app/)                   |
+| 53  | [Image Upload](https://github.com/abdullahtabish/webDev/tree/main/Image%20Upload)                                   | [Site Link](https://count-imageupload.herokuapp.com/)              |
 | 54  | [Insect Catch Game](https://github.com/abdullahtabish/webDev/tree/main/Insect%20Catch%20Game)                       | [Site Link](https://count-catchtheinsect.netlify.app/)             |
 | 55  | [Expense Tracker](https://github.com/abdullahtabish/webDev/tree/main/Expense%20Tracker)                             | [Site Link](https://count-expensetracker.netlify.app/)             |
 | 56  | [Exchange Rate](https://github.com/abdullahtabish/webDev/tree/main/Exchange%20Rate)                                 | [Site Link](https://count-exchangerate.netlify.app/)               |
 | 57  | [Relaxer](https://github.com/abdullahtabish/webDev/tree/main/Relaxer)                                               | [Site Link](https://count-relaxer.netlify.app/)                    |
-| 58  | [Music Player](https://github.com/abdullahtabish/webDev/tree/main/Music%20Player)                                   | [Site Link](https://count-musicplayer.netlify.app/)                |
+| 58  | [Todo List](https://github.com/abdullahtabish/webDev/tree/main/Todo%20List)                                         | [Site Link](https://count-todolist.netlify.app/)                   |
+| 59  | [Music Player](https://github.com/abdullahtabish/webDev/tree/main/Music%20Player)                                   | [Site Link](https://count-musicplayer.netlify.app/)                |
